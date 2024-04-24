@@ -1,0 +1,9 @@
+.env
+
+# cache
+__pycache__
+products/__pycache__/
+products/migrations
+products/migrations/
+website/__pycache__/
+website/__pycache__
